@@ -25,15 +25,17 @@ My keyboard is a KBA-D2911**C** with a 7u PBT spacebar with nonstandard stabiliz
 
 In order for the USB-C port on the elite-pi to be accessible, you must solder the elite-pi away from the PCB like this:
 
-![IMG_20240615_160726](https://github.com/taylorswift22/dimension-PCB/assets/22061508/4c59b271-36fa-4435-825e-fdf1b599cb85)
+![4c59b271-36fa-4435-825e-fdf1b599cb85](https://github.com/taylorswift22/dimension1800/assets/22061508/59aac260-b7fb-40bb-861b-f0a2050d8f03)
 
-![DSC03401](https://github.com/taylorswift22/dimension-PCB/assets/22061508/0a84e36f-0fb4-41b7-b86e-02bf23a067df)
+![0a84e36f-0fb4-41b7-b86e-02bf23a067df](https://github.com/taylorswift22/dimension1800/assets/22061508/2536a478-6459-40cd-ad8a-e2adde88e59c)
+
 
 ## Arrow key position
 
 On my prototype, the arrow keys appeared to be slightly too far up and to the left.
 
-![image](https://github.com/taylorswift22/dimension-PCB/assets/22061508/71f76bc1-6a32-4076-b67d-1b09a6f14d8f)
+![71f76bc1-6a32-4076-b67d-1b09a6f14d8f](https://github.com/taylorswift22/dimension1800/assets/22061508/1110efcc-c52a-4e95-ab7d-250c085c12c9)
+
 
 I have moved the arrow keys down and to the left by 0.25mm in the current version.
 

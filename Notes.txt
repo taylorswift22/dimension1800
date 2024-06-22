@@ -1,0 +1,15 @@
+34+30+58=122 keys
+
+we need one pin for LED
+122 matrix positions plus one pin for LED
+
+we have 11 rows and 12 columns.
+Need 23 Matrix + 1 LED pin = 24 total IO pins.
+
+pico footprint source: ctrl + f kicad https://datasheets.raspberrypi.com/pico/pico-datasheet.pd
+
+spacebar stab:
+stab wire diameter: 1.6mm
+Distance from stem to stem = 110.18
+
+110.18/2 = 55.09

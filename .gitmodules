@@ -1,0 +1,3 @@
+[submodule "keebio-components"]
+	path = dimension1800/keebio-components
+	url = https://github.com/keebio/keebio-components

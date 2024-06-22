@@ -2,9 +2,11 @@
 
 USB QMK-compatible PCB for the Siemens 10453443 / KBA-D2911
 
-![image](https://github.com/taylorswift22/dimension-PCB/assets/22061508/3cb45aca-eae0-463b-8944-8dda7efd8b32)
+![2b5b1c4b-f160-424f-aae0-397b622dffc3](https://github.com/taylorswift22/dimension1800/assets/22061508/94618f5a-42b8-4fdb-9834-e0e18c50c6fb)
 
-![DSC03396](https://github.com/taylorswift22/dimension-PCB/assets/22061508/2b5b1c4b-f160-424f-aae0-397b622dffc3)
+
+![3cb45aca-eae0-463b-8944-8dda7efd8b32](https://github.com/taylorswift22/dimension1800/assets/22061508/71a17680-3ffc-4d7b-a1c8-498d9a055146)
+
 
 
 ## Information

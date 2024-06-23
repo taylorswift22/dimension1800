@@ -32,7 +32,7 @@ In order for the USB-C port on the elite-pi to be accessible, you must solder th
 
 ## Arrow key position
 
-On my prototype, the arrow keys appeared to be slightly too far up and to the left.
+On my prototype, the arrow keys appeared to be slightly too far up and to the right.
 
 ![71f76bc1-6a32-4076-b67d-1b09a6f14d8f](https://github.com/taylorswift22/dimension1800/assets/22061508/1110efcc-c52a-4e95-ab7d-250c085c12c9)
 
@@ -41,7 +41,7 @@ I have moved the arrow keys down and to the left by 0.25mm in the current versio
 
 ## Production files
 To order, navigate to dimension-PCB/jlcpcb/production_files and copy what you need. If you choose THT diodes, just upload GERBER-dimension-PCB.zip. The BOM and CPL file are for SMD diode assembly at JLCPCB.
-I have 4 prototypes left with the slightly off arrow key position. You can contact me on discord if you wish to purchase one for free + the cost of shipping.
+I have 4 prototypes with the slightly misaligned arrow keys. You can contact me on discord if you wish to purchase one for free + the cost of shipping.
 
 ## Firmware
 Coming soon.

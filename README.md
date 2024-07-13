@@ -15,7 +15,7 @@ This PCB accepts THT or SMD diodes. It requires either the use of an elite-pi (h
 
 I have not tested the PCB with SMD diodes or the Raspberry Pi Pico. Production files are included for SMD diode assembly at JLCPCB.
 
-The keyboard originally uses a plate and PCB. This PCB is not designed to be used plateless.
+The keyboard originally uses a plate and PCB. This PCB is designed to be used plateless.
 
 ## Spacebar Stabilizer
 
